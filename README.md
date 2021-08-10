@@ -73,13 +73,19 @@ https://drive.google.com/file/d/17LY2aN8OiH6f0ebwlCW4armlsfmVnaZD/view?usp=shari
 ### output image1
  <img src="https://github.com/leeseomin/arte6/blob/main/out/335b.png" width="2000">
  <img src="https://github.com/leeseomin/arte6/blob/main/out/335a.png" width="2000">
+ <img src="https://github.com/leeseomin/arte6/blob/main/out/335c.png" width="2000">
+  <img src="https://github.com/leeseomin/arte6/blob/main/out/335d.png" width="2000">
+
+
 
 
 ### input image2
  <img src="https://github.com/leeseomin/arte3/blob/main/s/seed0399.png" width="500">
 
 ### output image2
- <img src="https://github.com/leeseomin/arte3/blob/main/399out.png" width="1600">
+ <img src="https://github.com/leeseomin/arte6/blob/main/out/399a.png" width="2000">
+ <img src="https://github.com/leeseomin/arte6/blob/main/out/399b.png" width="2000">
+
 
  
  
