@@ -1,5 +1,4 @@
-# arte6  :  arte3 x CPU_HDR 
-
+# arte6  
 
 
 
@@ -55,7 +54,7 @@ mkdir s{1..25}
 input images folder : s ,   result folder : s25
 
 
-bash main.sh    or   bash main2.sh 
+bash main.sh   
 
 ```
 
